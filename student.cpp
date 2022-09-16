@@ -1,6 +1,6 @@
 /* STUDENT DATABASE MANAGEMENT SYSTEM PROJECT (Let's Crack It....)*/
 
-#include <iostream>
+#include <bits/stdc++.h>
 
 using namespace std;
 
